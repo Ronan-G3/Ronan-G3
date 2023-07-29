@@ -1,14 +1,19 @@
-# 'Learn the rules like a pro, so you can break them like an artist.' - Pablo Picasso
+![Coding GIF](https://media.giphy.com/media/1BTQmXz5LNJdu/giphy.gif)
 
-# Hello, I'm Ronan! 👋
+### <i> "Learn the rules like a pro, so you can break them like an artist." - Pablo Picasso </i>
 
-![Profile views](https://gpvc.arturio.dev/[YourGithubUsername])
+## Welcome! I'm Ronan, 
 
-Welcome to my GitHub profile! I am a multifaceted individual with passions stretching from programming and UI/UX design to music. With a rich background in songwriting, recording, and performing, I've cultivated a unique perspective towards creativity and problem solving. 
+My skillset is derived from a unique background of programming, UI/UX design, and music. Drawing from my background as a songwriter, recording artist, and performer, I've cultivated a unique perspective on creativity that informs my approach to problem-solving and coding.
+
+Presently, I'm a Master's student in Computer Science at University College Dublin, where I balance technical acumen, problem-solving, and effective teamwork. With a focus on Python and frontend development, I'm always on the lookout for challenging projects that deepen my understanding of coding, design, and creative thinking.
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 
 ## 🎸 The Melodious Coder 
 
-Music has always been my soul's language, and I've been fortunate to translate that into a career with my band. This experience not only honed my artistic side, but it has also shaped my approach to coding and design. The rhythm of lines of code, the harmony in user-friendly design, and the melody of efficient algorithms — my journey as a musician helps me see these elements in a distinct light. 
+Music informs my coding perspective, letting me see rhythm in lines of code, harmony in user-friendly design, and melody in efficient algorithms. What I love about music is it brings me into a meditative 'flow' state when things are working just right. This is'nt much different when coding either!
 
 ## 🎨 Crafting Digital Experiences
 
@@ -20,24 +25,16 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 
 ## 🎓 My Education
 
-- Masters in Computer Science from University College Dublin (2021 - 2023)
-- [Any other relevant degrees or certifications]
+- Masters in Computer Science from University College Dublin (2022 - Present)
+- Bachelor of Arts in Music & Philosophy (Hons) from University College Dublin (2018 - 2021)
 
 ## 🛠️ Technologies & Tools
 
-- Python
-- Java
-- JavaScript
-- Node.js
-- React.js
-- MySQL
-- 
-
-## 📈 My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGithubUsername]&layout=compact)](https://github.com/[YourGithubUsername]/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGithubUsername]&show_icons=true)](https://github.com/[YourGithubUsername]/github-readme-stats)
+- Programming: Python, Java, JavaScript, HTML, CSS
+- Database Systems: MySQL, PostgreSQL
+- Version Control: Git/GitHub
+- Data Analysis
+- Software Development Principles
 
 ## 📫 Connect with Me:
 
@@ -47,9 +44,13 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 
 ## 🔗 Highlight Projects:
 
-- ['Dublin Bikes Finder'](https://github.com/finbarallan/Dublin-Bikes-App): A location-based web application developed with Python to identify the nearest Dublin Bikes Stations and calculate the user's route, leveraging real-time data fetching from a MySQL database.
+-['NYSeeNow'](https://github.com/Fei117117/NYSeeNow):An innovative summer project with a diverse team of six. 'NYSeeNow' is a real-time, interactive travel itinerary guide, created to predict 'busyness' levels at various attractions. As the Customer Lead within the front-end team, I led the UI design and wireframing, bringing the user experience to life with React.js and Node.js. The backend is powered by Java/Springboot and Python/Flask, ensuring a robust and responsive data management. I also harnessed the power of Amazon EC2 for reliable and scalable hosting. On the design side, I enjoyed the creative process of crafting custom graphics and logos that bring a unique aesthetic appeal to our platform. The culmination of these technologies and efforts has resulted in a comprehensive, user-friendly guide for efficient travel planning.
 
-- ['NYSeeNow'](under development): An interactive, realtime travel itinerary guide. Led the frontend/UI design using React JS framework with Node.js. The application implements Java/Springboot, Python/Flask, and machine learning models to predict 'busyness' levels at various attractions. The project also involved extensive wireframing using Figma.
+
+-['Dublin Bikes Finder'](https://github.com/finbarallan/Dublin-Bikes-App): A location-based web app built with Python to help users find the nearest Dublin Bikes Stations and chart their route using real-time data from a MySQL database.
+
+
+-['Java Asteroids Game'](https://github.com/mattx245/Java-Asteroids-Game):  An interactive JavaFX game crafted in a team of five. In this project, I had the opportunity to extensively develop the UFO objects, curate the game-over screen, and create an immersive user interface. I integrated custom-designed cartoon character images for the main screen, contributing to the game's unique aesthetic. 
 
 ## 👥 Additional Projects:
 
@@ -57,7 +58,6 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 - MySQL Database: Created a relational database for a hospital using MySQL Workbench.
 - Software Engineering: Authored an A-grade SRS document and developed a web application using Python.
 - Python OOP: Developed a text-based RPG game.
-- Java Game: Collaboratively developed a game called 'Asteroids!'
 - Data Structures: Conducted performance tests for various algorithms, including factorial and search, using Python in Jupyter notebook.
 - Data Analytics: Utilized Python for predictive analysis in COVID-19 research.
 - Operating Systems: Developed VM programs in C.
