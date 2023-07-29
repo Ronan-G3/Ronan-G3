@@ -6,7 +6,7 @@
 
 My skillset is derived from a unique background of programming, UI/UX design, and music. Drawing from my background as a songwriter, recording artist, and performer, I've cultivated a unique perspective on creativity that informs my approach to problem-solving and coding.
 
-Presently, I'm a Master's student in Computer Science at University College Dublin, where I balance technical acumen, problem-solving, and effective teamwork. With a focus on Python and frontend development, I'm always on the lookout for challenging projects that deepen my understanding of coding, design, and creative thinking.
+Currently, I'm a Master's student in Computer Science at University College Dublin, where I balance technical acumen, problem-solving, and effective teamwork. With a focus on Python and frontend development, I'm always on the lookout for challenging projects that deepen my understanding of coding, design, and creative thinking.
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
