@@ -1,8 +1,8 @@
-![Coding GIF](https://media.giphy.com/media/1BTQmXz5LNJdu/giphy.gif)
-
 ### <i> "Learn the rules like a pro, so you can break them like an artist." - Pablo Picasso </i>
 
 ## Welcome! I'm Ronan, 
+
+![Coding GIF](https://media.giphy.com/media/1BTQmXz5LNJdu/giphy.gif)
 
 My skillset is derived from a unique background of programming, UI/UX design, and music. Drawing from my background as a songwriter, recording artist, and performer, I've cultivated a unique perspective on creativity that informs my approach to problem-solving and coding.
 
