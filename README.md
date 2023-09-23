@@ -42,16 +42,16 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 
 ## 🎓 My Education
 
-- Masters in Computer Science from University College Dublin (2022 - Present)
+- Masters in Computer Science from University College Dublin (2022 - Present) (Due for completion in December 2023)
 - Bachelor of Arts in Music & Philosophy (Hons) from University College Dublin (2018 - 2021)
 
 ## 🛠️ Technologies & Tools
 
-- Programming: Python, Java, JavaScript, HTML, CSS
+- Programming: Python, Java, JavaScript, HTML, CSS, R, Ruby + more!
 - Database Systems: MySQL, PostgreSQL
 - Version Control: Git/GitHub
 - Data Analysis
-- Software Development Principles
+- Software Development Principles - Agile Scrum
 
 ## 📫 Connect with Me:
 
@@ -78,11 +78,14 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 - Data Structures: Conducted performance tests for various algorithms, including factorial and search, using Python in Jupyter notebook.
 - Data Analytics: Utilized Python for predictive analysis in COVID-19 research.
 - Operating Systems: Developed VM programs in C.
+- Sound recorder and beat finder.
 
 ## 🎼 Personal Interests:
 
 - Music: Leading an indie rock band as a singer/songwriter and guitarist.
 - Graphic Design & Illustration/Animation: Level 5 PLC Graphic Design certificate holder.
+- GAMING - Have been an avid lover of video games since I was 4 years old playing Sonic The Hedgehog and Super Mario Bros! I have followed the entire rise of the industry from Sega right up to modern consoles and VR tech! 
+- VR / AR technologies -  Mesmerised by the latest offerings on the Oculus quest 2. I am currently studying the mechanics behind VR and AR and will be completing my own .AR application as part of my masters degree! Excited to see what new possibillities these technologies will present us with!
 - Philosophy/Psychology: Avid reader of various philosophical and scientific subjects.
 - Plant-based Cooking: Passionate about researching and cooking plant-based meals.
 
