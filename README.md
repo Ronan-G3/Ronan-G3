@@ -29,6 +29,7 @@ Currently, I'm a Master's student in Computer Science at University College Dubl
 ## 🎸 The Melodious Coder 
 
 Music informs my coding perspective, letting me see rhythm in lines of code, harmony in user-friendly design, and melody in efficient algorithms. What I love about music is it brings me into a meditative 'flow' state when things are working just right. This is'nt much different when coding either!
+
 ![Coding GIF](https://media.giphy.com/media/1BTQmXz5LNJdu/giphy.gif)
 
 ## 🎨 Crafting Digital Experiences
