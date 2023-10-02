@@ -15,7 +15,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="Flask" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -49,7 +48,7 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 
 ## 🛠️ Technologies & Tools
 
-- Programming: Python, Java, JavaScript, HTML, CSS, R, Ruby + more!
+- Programming: Python, Java, JavaScript, HTML, CSS, R, Ruby, C++, + more!
 - Database Systems: MySQL, PostgreSQL
 - Version Control: Git/GitHub
 - Data Analysis
@@ -93,15 +92,3 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 
 <!--
 **Ronan-G3/Ronan-G3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
