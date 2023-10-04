@@ -79,7 +79,8 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 - Data Structures: Conducted performance tests for various algorithms, including factorial and search, using Python in Jupyter notebook.
 - Data Analytics: Utilized Python for predictive analysis in COVID-19 research.
 - Operating Systems: Developed VM programs in C.
-- Sound recorder and beat finder.
+- music based Sound recorder and beat finder in Python.
+- Cell based Snake game build using Raylibs in C++. 
 
 ## 🎼 Personal Interests:
 
