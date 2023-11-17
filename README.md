@@ -24,14 +24,12 @@ My skillset is derived from a unique background of programming, UI/UX design, an
 
 Currently, I'm a Master's student in Computer Science at University College Dublin, where I balance technical acumen, problem-solving, and effective teamwork. With a focus on Python and frontend development, I'm always on the lookout for challenging projects that deepen my understanding of coding, design, and creative thinking.
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
 ## 🎸 The Melodious Coder 
 
 Music informs my coding perspective, letting me see rhythm in lines of code, harmony in user-friendly design, and melody in efficient algorithms. What I love about music is it brings me into a meditative 'flow' state when things are working just right. This is'nt much different when coding either!
-  
-<br>![Coding GIF](https://media.giphy.com/media/1BTQmXz5LNJdu/giphy.gif)
+
 
 ## 🎨 Crafting Digital Experiences
 
