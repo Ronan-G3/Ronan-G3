@@ -26,14 +26,6 @@ Currently, I'm a Master's student in Computer Science at University College Dubl
 
 
 
-## 🎸 The Melodious Coder 
-
-Music informs my coding perspective, letting me see rhythm in lines of code, harmony in user-friendly design, and melody in efficient algorithms. What I love about music is it brings me into a meditative 'flow' state when things are working just right. This is'nt much different when coding either!
-
-
-## 🎨 Crafting Digital Experiences
-
-Equally compelling to me is the world of design. With an eye for aesthetics and user engagement, I've embarked on the journey of mastering UI/UX design. Creating intuitive interfaces and shaping seamless user experiences are challenges that fuel my passion and creativity every day. 
 
 ## 👨‍💻 Passion for Programming 
 
