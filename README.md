@@ -22,19 +22,16 @@
 
 My skillset is derived from a unique background of programming, UI/UX design, and music. Drawing from my background as a songwriter, recording artist, and performer, I've cultivated a unique perspective on creativity that informs my approach to problem-solving and coding.
 
-Currently, I'm a Master's student in Computer Science at University College Dublin, where I balance technical acumen, problem-solving, and effective teamwork. With a focus on Python and frontend development, I'm always on the lookout for challenging projects that deepen my understanding of coding, design, and creative thinking.
-
-
-
 
 ## 👨‍💻 Passion for Programming 
 
-As a programmer, I'm continuously seeking to deepen my understanding of various aspects of the tech stack. I am always up for challenges that push my limits, instigating me to come up with robust, efficient solutions. My goal is to craft software that doesn't just function effectively but also resonates with the users at an aesthetic and experiential level.
+I'm continuously seeking to deepen my understanding of various aspects of the tech stack. I am always up for challenges that push my limits, instigating me to come up with robust, efficient solutions. My goal is to craft software that resonates with the users at an experiential level.
 
 ## 🎓 My Education
 
 - Masters in Computer Science from University College Dublin (2022 - Present) (Due for completion in December 2023)
 - Bachelor of Arts in Music & Philosophy (Hons) from University College Dublin (2018 - 2021)
+- Associates Degree in Graphic Design
 
 ## 🛠️ Technologies & Tools
 
@@ -48,7 +45,7 @@ As a programmer, I'm continuously seeking to deepen my understanding of various 
 
 - Email: ronanglennon03@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ronan-glennon-73aa96159/
-- Personal Website: [under development]
+- Personal Website: https://ronanglennonportfolio.com/
 
 ## 🔗 Highlight Projects:
 
