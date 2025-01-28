@@ -60,7 +60,7 @@ I'm continuously seeking to deepen my understanding of various aspects of the te
 ## 👥 Additional Projects:
 
 - Web Development: Developed two data visualization websites using HTML, CSS, JavaScript, and Python.
-- MySQL Database: Created a relational database for a hospital using MySQL Workbench.
+- MySQL Database: Created relational databases based on medical data using MySQL Workbench.
 - Software Engineering: Authored an A-grade SRS document and developed a web application using Python.
 - Python OOP: Developed a text-based RPG game.
 - Data Structures: Conducted performance tests for various algorithms, including factorial and search, using Python in Jupyter notebook.
